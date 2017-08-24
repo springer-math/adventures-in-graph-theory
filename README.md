@@ -1,6 +1,6 @@
 # Springer Source Code
 
-This repository accompanies [*Adventures in Graph Theory*](http://www.springer.com/book/9783319068190) by David Joyner and Caroline Grant Melles (Birkh�user, 2017).
+This repository accompanies [*Adventures in Graph Theory*](https://www.springer.com/book/9783319683812) by David Joyner and Caroline Grant Melles (Birkhäuser, 2017).
 
 ![Cover image](cover.jpg)
 
