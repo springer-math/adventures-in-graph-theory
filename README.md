@@ -2,7 +2,7 @@
 
 This repository accompanies [*Adventures in Graph Theory*](https://www.springer.com/book/9783319683812) by David Joyner and Caroline Grant Melles (Birkhäuser, 2017).
 
-<!-- ![Cover image](cover.jpg) -->
+![Cover image](cover.jpg) 
 
 Download the files as a zip using the green button, or clone the repository to your machine using Git.
 
